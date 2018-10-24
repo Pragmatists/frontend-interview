@@ -1,0 +1,12 @@
+{
+  "name": "frontend-interview",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "dependencies": {
+    "jest": "^23.6.0",
+    "rxjs": "^6.3.3",
+    "rxjs-compat": "^6.3.3"
+  }
+}
