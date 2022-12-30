@@ -5,7 +5,7 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "rxjs": "^6.3.3",
     "rxjs-compat": "^6.3.3"
   }
